@@ -24,8 +24,9 @@ class DatabaseSeeder extends Seeder
             CategorySeeder::class,
             MenuSeeder::class,
             // MenuPriceOptionSeeder::class,
-            TransactionSeeder::class,
+            // TransactionSeeder::class,
             OptionSeeder::class,
+            UserSeeder::class
         ]);
     }
 }
